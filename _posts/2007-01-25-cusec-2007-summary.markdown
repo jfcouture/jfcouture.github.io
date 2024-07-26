@@ -1,0 +1,30 @@
+---
+author: jfcouture
+comments: true
+date: 2007-01-25 00:33:36+00:00
+layout: post
+link: http://jfcouture.com/2007/01/24/cusec-2007-summary/
+slug: cusec-2007-summary
+title: CUSEC 2007 Summary
+wordpress_id: 40
+categories:
+- CUSEC
+- Software Engineering
+---
+
+[CUSEC 2007](http://2007.cusec.net/) was last week, from thursday to saturday, and it was good. Once again the organization was great (except for every day starting 30 mins behind schedule). However, I can only say that CUSEC was good, not great. It's a conference targeting student, so it may be possible that after working a year, and after attending the 5 previous CUSEC, well there wasn't much for me this time around.
+
+
+
+
+The keynotes were all good, but there wasn't anything new for me, nothing that changed my perception of the field like previous years, and nothing mentioned that really piqued my interest. One thing they all mentioned is the importance of making mistakes and learning from them. That's good advice.
+
+
+
+
+There were two very good presentations. The first one was from [Austin Hill](http://www.billionswithzeroknowledge.com/), one of the cofounder of Zero Knowledge (now owned by [RadialPoint](http://www.radialpoint.com/en/home/home.php)). He talked about what he learned there, and about startups today. The second one was from [Greg Brill](http://www.infusionblogs.com/blogs/gbrill/default.aspx), CEO of [Infusion Development](http://www.infusiondev.com/), and it was about the soft skills you need.
+
+
+
+
+I will post more details about each day of the conference later.

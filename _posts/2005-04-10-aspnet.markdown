@@ -1,0 +1,14 @@
+---
+author: jfcouture
+comments: true
+date: 2005-04-10 17:03:47+00:00
+layout: post
+link: http://jfcouture.com/2005/04/10/aspnet/
+slug: aspnet
+title: ASP.Net
+wordpress_id: 19
+categories:
+- Rails
+---
+
+Over the next few weeks, at work, I will be reworking an application that is made with ASP.Net. I would like to do it in Rails, but since we're using .Net for everything, that's the way it is going to be. However, I think I will try to reimplement it in Rails in my spare time to compare both framework.

@@ -1,0 +1,12 @@
+---
+author: jfcouture
+comments: true
+date: 2007-07-19 22:21:55+00:00
+layout: post
+link: http://jfcouture.com/2007/07/19/projects/
+slug: projects
+title: Projects
+wordpress_id: 59
+---
+
+Coming soon...

@@ -1,0 +1,12 @@
+---
+author: jfcouture
+comments: true
+date: 2005-08-03 02:36:29+00:00
+layout: post
+link: http://jfcouture.com/2005/08/02/time/
+slug: time
+title: Time
+wordpress_id: 24
+---
+
+No, I'm not going to complain that I've been too busy to update my blog. Anyway, it seems I post once a month. But I'm going to complain that I'm lacking time to read everything I would like to. For example, I haven't read the eXtreme Programming mailing list on yahoo groups for more than two months. Some nights, if I find a couple of interesting articles on my regular round of websites, plus the blogs I watch, a couple of hours pass without notice. Add to that the pile of books sitting on my desk (without counting all the classic sci-fi I would like to read) and... well you get the picture. What's worse is that I'm in a kind of flux (not sure if it's the right word here) with books related to software engineering. I feel like I've read enough about Agile and XP for a while. I'm looking to expand into other subjects. Last night I started The Secrets Of Consulting by Jerry Weinberg and have to say I quite enjoyed the first chapter. I think I'll have to buy a copy for a friend who just started some consulting work. I'll post more about it in the coming weeks.

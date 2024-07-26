@@ -1,0 +1,14 @@
+---
+author: jfcouture
+comments: true
+date: 2005-03-15 02:54:24+00:00
+layout: post
+link: http://jfcouture.com/2005/03/14/zen/
+slug: zen
+title: Zen
+wordpress_id: 13
+categories:
+- Software Engineering
+---
+
+Why are you planning to have enough bugs to need tracking?

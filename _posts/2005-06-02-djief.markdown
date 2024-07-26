@@ -1,0 +1,16 @@
+---
+author: jfcouture
+comments: true
+date: 2005-06-02 00:26:33+00:00
+layout: post
+link: http://jfcouture.com/2005/06/01/djief/
+slug: djief
+title: Djief
+wordpress_id: 22
+---
+
+Once again, I start a blog and leave it to rot for a few weeks. Actually, I started a new post two weeks ago about Lean Software Developement by Mary and Tom Poppendiek, telling how great of a book it is. However I did not like the few sentences I had written. It did not do the book justice. I tried again a few days later and still couldn't finish it. I could not find the words again.
+
+Meanwhile, I read on another blog, I don't remember which one, about getting into some kind of rythm when it comes to writing, how the author finds it tougher if he has not done it for a while. Which reminded me why I kinda started a blog in the first place: not because I think my daily activities or opinion on world events might interest somebody, but because I want to improve my communications skills, better explain my ideas.
+
+Some of my posts won't make sense some of the time, but I guess it will get better over time.
