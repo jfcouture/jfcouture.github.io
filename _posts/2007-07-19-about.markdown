@@ -9,7 +9,6 @@ title: About
 wordpress_id: 2
 ---
 
-![photo jf](http://jfcouture.com/wp-content/uploads/2007/09/photo-13.thumbnail.jpg) Hello, my name is Jean-Francois Couture. I'm a 25 years old software developer from Montreal, Canada. I currently work for [Code Genome](http://www.codegenome.com/), a small company developing custom web applications using Ruby on Rails. 
-
+![photo jf](/images/archive/photo-13.thumbnail.jpg) Hello, my name is Jean-Francois Couture. I'm a 25 years old software developer from Montreal, Canada. I currently work for [Code Genome](http://www.codegenome.com/), a small company developing custom web applications using Ruby on Rails.
 
 [![View Jean-Francois Couture's profile on LinkedIn](http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif)](http://www.linkedin.com/in/jfcouture)
